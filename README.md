@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! I'm an engineer based in Sydney, Australia 🏊‍♂️. I like robots 🤖, machine learning & artificial intelligence 🧠. Currently _1500+_ days streak @Duolingo 🇩🇪. Like me some @Nintendo. Like me some _Animal Crossing_ 🦝. Like to make things slowly 😅. I'm excited by travelling and spontenous photography 📷. 
 
 <!--
 **lindsaygelle/lindsaygelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
