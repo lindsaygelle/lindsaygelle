@@ -1,6 +1,6 @@
-## [@lindsaygelle](github.com/lindsaygelle) ✨
+## [@lindsaygelle](https://www.github.com/lindsaygelle) ✨
 
-Hello! I'm an engineer based in Sydney, Australia 🏊‍♂️. I like _robots_ 🤖, _machine learning_ & _artificial intelligence_ 🧠. Learning the ropes. Currently _1500+_ day streak [@Duolingo](github.com/duolingo) (German). Like me some [@Nintendo](github.com/nintendo). Like me some _Animal Crossing_ 🦝. Like to make things as close to neat as I can 😅. I'm excited by travelling (duh) and candid photography 📷. Love me some 90's anime aesthetic (90's born). Can't reliablly input the electric wind god fist.
+Greetings! I'm an engineer hailing from Sydney, Australia 🏊‍♂️. My interests include robots 🤖, machine learning, and artificial intelligence 🧠. I'm currently learning the ropes and have a 1500+ day streak on @Duolingo (German). I'm also a fan of @Nintendo and love playing Animal Crossing 🦝 and Mario Kart Tour (yes, I know it's a mobile game). I take pride in making things as neat as possible 😅. Candid photography 📷 and travel are my passions. As a 90's baby, I'm drawn to the 90's anime _aesthetic_. I like Fighting Games, such as Tekken 3. But. I can't reliably input the electric wind god fist though 😿.
 
 <!--
 **lindsaygelle/lindsaygelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
