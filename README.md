@@ -1,4 +1,6 @@
-Hello! I'm an engineer based in Sydney, Australia 🏊‍♂️. I like robots 🤖, machine learning & artificial intelligence 🧠. Currently _1500+_ days streak @Duolingo 🇩🇪. Like me some @Nintendo. Like me some _Animal Crossing_ 🦝. Like to make things slowly 😅. I'm excited by travelling and spontenous photography 📷. 
+## [@lindsaygelle](github.com/lindsaygelle) ✨
+
+Hello! I'm an engineer based in Sydney, Australia 🏊‍♂️. I like _robots_ 🤖, _machine learning_ & _artificial intelligence_ 🧠. Learning the ropes. Currently _1500+_ day streak [@Duolingo](github.com/duolingo) (German). Like me some [@Nintendo](github.com/nintendo). Like me some _Animal Crossing_ 🦝. Like to make things as close to neat as I can 😅. I'm excited by travelling (duh) and candid photography 📷. Love me some 90's anime aesthetic (90's born). Can't reliablly input the electric wind god fist.
 
 <!--
 **lindsaygelle/lindsaygelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
